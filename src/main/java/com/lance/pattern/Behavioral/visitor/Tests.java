@@ -6,7 +6,7 @@ import org.junit.Test;
 
 /**
  * Created by lihua on 25/4/2017.
- * email: lihua@seczone.cn
+ * email: lihua@qq.com
  */
 public class Tests {
 

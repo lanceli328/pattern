@@ -2,7 +2,7 @@ package com.lance.pattern.Behavioral.command;
 
 /**
  * Created by lihua on 3/4/2017.
- * email: lihua@seczone.cn
+ * email: lihua@qq.com
  */
 public class ContreteCommandB implements Command {
 

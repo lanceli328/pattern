@@ -2,7 +2,7 @@ package com.lance.pattern.Behavioral.chainOfResponsibility;
 
 /**
  * Created by lihua on 24/4/2017.
- * email: lihua@seczone.cn
+ * email: lihua@qq.com
  */
 public abstract class Handler {
 

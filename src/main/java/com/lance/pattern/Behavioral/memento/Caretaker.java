@@ -4,7 +4,7 @@ import java.util.ArrayList;
 
 /**
  * Created by lihua on 25/4/2017.
- * email: lihua@seczone.cn
+ * email: lihua@qq.com
  */
 public class Caretaker {
   private ArrayList<Memento> mementos = new ArrayList<>();

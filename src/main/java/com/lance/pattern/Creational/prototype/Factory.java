@@ -5,7 +5,7 @@ import java.util.Map;
 
 /**
  * Created by lihua on 26/4/2017.
- * email: lihua@seczone.cn
+ * email: lihua@qq.com
  */
 class Factory {
   private static final Map<String, Person> prototypes = new HashMap<>();

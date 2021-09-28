@@ -2,7 +2,7 @@ package com.lance.pattern.Behavioral.mediator;
 
 /**
  * Created by lihua on 25/4/2017.
- * email: lihua@seczone.cn
+ * email: lihua@qq.com
  */
 public class ConcreteColleague2 extends Colleague {
 

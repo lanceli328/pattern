@@ -2,7 +2,7 @@ package com.lance.pattern.Structural.decorator;
 
 /**
  * Created by lihua on 3/4/2017.
- * email: lihua@seczone.cn
+ * email: lihua@qq.com
  */
 public class DecoratorEnglish extends Decorator {
 

@@ -4,7 +4,7 @@ import com.lance.pattern.Creational.singleton.target.Duck;
 
 /**
  * Created by lihua on 30/3/2017.
- * email: lihua@seczone.cn
+ * email: lihua@qq.com
  */
 public abstract class AbstractDuckFactory {
 

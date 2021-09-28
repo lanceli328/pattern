@@ -8,7 +8,7 @@ import java.util.List;
 
 /**
  * Created by lance on 2017/3/28.
- * Mail: lihua@seczone.cn
+ * Mail: lihua@qq.com
  */
 public class StringUtils {
 

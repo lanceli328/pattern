@@ -4,7 +4,7 @@ import java.util.Observable;
 
 /**
  * Created by lihua on 24/4/2017.
- * email: lihua@seczone.cn
+ * email: lihua@qq.com
  */
 public class Subject extends Observable{
 

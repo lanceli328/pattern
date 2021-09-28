@@ -2,7 +2,7 @@ package com.lance.pattern.Creational.builder;
 
 /**
  * Created by lihua on 26/4/2017.
- * email: lihua@seczone.cn
+ * email: lihua@qq.com
  */
 class Pizza {
   private String dough = "";

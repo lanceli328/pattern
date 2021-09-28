@@ -1,8 +1,9 @@
+
 package com.lance.pattern.Creational.prototype;
 
 /**
  * Created by lihua on 26/4/2017.
- * email: lihua@seczone.cn
+ * email: lihua@qq.com
  */
 class Tom implements Person {
   private final String NAME = "Tom";

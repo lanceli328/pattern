@@ -22,7 +22,7 @@ public class ObjectFactory {
    *
    * @param type : simple class name
    * @param classPath : class full path, include the package name and class name, for example:
-   * cn.seczone.xss.core.common.ObjectFactory
+   * cn.test.xss.core.common.ObjectFactory
    */
   public synchronized void register(String type, String classPath) {
     if (classTypeMap.containsKey(type)) {

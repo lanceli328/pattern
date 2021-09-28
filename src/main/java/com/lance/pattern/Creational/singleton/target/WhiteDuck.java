@@ -1,8 +1,9 @@
+
 package com.lance.pattern.Creational.singleton.target;
 
 /**
  * Created by lihua on 30/3/2017.
- * email: lihua@seczone.cn
+ * email: lihua@qq.com
  */
 public class WhiteDuck implements Duck {
 

@@ -11,7 +11,7 @@ import org.slf4j.LoggerFactory;
 
 /**
  * Created by lance on 2017/3/27.
- * Mail: lihua@seczone.cn
+ * Mail: lihua@qq.com
  */
 public class ClassUtils {
 

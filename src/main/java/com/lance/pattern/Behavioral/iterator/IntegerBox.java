@@ -5,7 +5,7 @@ import java.util.List;
 
 /**
  * Created by lihua on 26/4/2017.
- * email: lihua@seczone.cn
+ * email: lihua@qq.com
  */
 class IntegerBox {
 
